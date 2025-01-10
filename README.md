@@ -4,8 +4,6 @@
 
 ![bite](https://github.com/user-attachments/assets/3fe2ba5e-b511-43fc-943e-e35715838cbd)
 
-- [Demo Project](https://task-ivory-ten.vercel.app/)
-
 - Developed by ziba irani
 
 - Technologies Used : TypeScript - React - React-router-dom - redux - swiper js - framer motion - tailwind - Ant Design 
