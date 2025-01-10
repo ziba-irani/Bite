@@ -8,7 +8,7 @@
 
 - Developed by ziba irani
 
-- Technologies Used - TypeScript - React - React-router-dom - redux - swiper js - framer motion - tailwind - Ant Design 
+- Technologies Used : TypeScript - React - React-router-dom - redux - swiper js - framer motion - tailwind - Ant Design 
 
 - Role - Frontend Developer
 
