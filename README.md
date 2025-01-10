@@ -2,7 +2,7 @@
 
 **enjoy my new React project**
 
-![taskimg](https://github.com/user-attachments/assets/615c93e3-7acd-4558-8991-146110b92b0d)
+![bite](https://github.com/user-attachments/assets/3fe2ba5e-b511-43fc-943e-e35715838cbd)
 
 - [Demo Project](https://task-ivory-ten.vercel.app/)
 
